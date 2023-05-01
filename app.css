@@ -1,0 +1,24 @@
+body{
+    background-color: #d9aab2;
+    /* font-size: 1.5rem; */
+}
+
+.navbar .nav-link{
+    color: gray;
+}
+.navbar .nav-link:hover{
+    color: rgb(12, 10, 10);
+}
+.navbar-brand{
+    font-size: 1.5rem
+}
+
+/* h1, h2, h3, h4{
+    color: beige;
+} */
+
+#title-head{
+    font-size: 4rem;
+    font-weight: 100;
+    color: whitesmoke;
+}
